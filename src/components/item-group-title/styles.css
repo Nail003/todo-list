@@ -1,0 +1,27 @@
+.item-group_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--white-glass);
+    cursor: pointer;
+}
+
+.item-group_title:hover {
+    background-color: var(--purple-glass);
+}
+
+.item-group_title h2 {
+    margin-left: 4px;
+}
+
+.item-group_title button {
+    background: none;
+    border: none;
+    outline: none;
+    padding: 12px 12px;
+    cursor: pointer;
+}
+
+.item-group_title button:hover {
+    background-color: var(--white-glass);
+}

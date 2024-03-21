@@ -1,0 +1,10 @@
+.menubar {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 8px;
+    min-width: 256px;
+    min-height: 100vh;
+    border-right: 2px solid var(--white-90);
+    font-weight: normal;
+}
