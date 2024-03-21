@@ -1,3 +1,4 @@
+import { createMenuItemButton } from "../buttons"
 import "./styles.css"
 
 export function createItemGroupTitle(text) {
@@ -17,7 +18,6 @@ function createTitleHeading(text, itemGroupTitleContainer) {
 }
 
 function createTitleButton(itemGroupTitleContainer) {
-    const addItemButton = document.createElement("button")
-    addItemButton.textContent = "+"
+    const addItemButton = createMenuItemButton("+")
     itemGroupTitleContainer.appendChild(addItemButton)
 }

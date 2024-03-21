@@ -1,0 +1,11 @@
+.menu-item-button {
+    background: none;
+    border: none;
+    outline: none;
+    padding: 12px 12px;
+    cursor: pointer;
+}
+
+.menu-item-button:hover {
+    background-color: var(--white-glass);
+}

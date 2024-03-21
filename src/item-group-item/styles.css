@@ -1,0 +1,22 @@
+.items-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    --font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.items-group-item:hover {
+    background-color: var(--grey-glass);
+}
+
+.items-group-item h4 {
+    margin-left: 4px;
+    font-size: var(--font-size);
+    font-weight: normal;
+}
+
+.items-group-item button {
+    font-size: var(--font-size);
+    padding: 8px 12px;
+}
