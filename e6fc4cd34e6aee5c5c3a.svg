@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="cross.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:lockguides="false"
+     inkscape:zoom="14.6875"
+     inkscape:cx="15.965957"
+     inkscape:cy="16"
+     inkscape:window-width="1212"
+     inkscape:window-height="648"
+     inkscape:window-x="59"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch5"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:lightcoral;fill-opacity:1;stroke:none;stroke-width:4.7839;stroke-opacity:1"
+       id="rect7"
+       width="6.5277772"
+       height="40.473549"
+       x="19.364885"
+       y="-20.110764"
+       ry="2.6869974"
+       transform="matrix(0.71103328,0.70315835,-0.71273528,0.70143312,0,0)" />
+    <rect
+       style="fill:lightcoral;fill-opacity:1;stroke:none;stroke-width:4.13355;stroke-opacity:1"
+       id="rect8"
+       width="40.472218"
+       height="6.5279918"
+       x="2.3926659"
+       y="-3.1379852"
+       ry="2.546634"
+       transform="matrix(0.71103328,0.70315835,-0.71273528,0.70143312,0,0)" />
+  </g>
+</svg>
