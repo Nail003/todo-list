@@ -1,0 +1,17 @@
+.group__button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 8px 8px;
+    background-color: var(--white-glass);
+
+    font-weight: bold;
+}
+
+.side-menu__group h2 {
+    flex: 1;
+
+    cursor: default;
+}

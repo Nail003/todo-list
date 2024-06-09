@@ -1,0 +1,30 @@
+.base-input-field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 8px;
+}
+
+.base-input-field__label {
+    font-size: 1.75rem;
+    color: var(--white);
+    font-weight: bold;
+}
+
+.base-input-field__input-field,
+.base-input-field__text-area {
+    padding: 4px;
+    width: 100%;
+    min-width: 256px;
+    border: none;
+    border-radius: 8px;
+
+    font-size: 1.6rem;
+    color: var(--black);
+    text-shadow: none;
+    background-color: var(--white);
+}
+
+.base-input-field__text-area {
+    font-size: 1.2rem;
+}

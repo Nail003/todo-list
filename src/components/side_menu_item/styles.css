@@ -1,0 +1,29 @@
+.group__item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: var(--grey-glass);
+    padding: 2px 4px;
+
+    cursor: pointer;
+}
+
+.group__item:hover {
+    background-color: var(--white-glass);
+}
+
+.item__title {
+    font-size: 1.3rem;
+    overflow: hidden;
+}
+
+.item__button-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.item__button {
+    width: 28px;
+}

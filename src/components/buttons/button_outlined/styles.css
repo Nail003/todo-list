@@ -1,0 +1,7 @@
+.button--outlined {
+    border: 2px solid var(--white-90);
+}
+
+.button--outlined:hover {
+    background-color: var(--white-glass);
+}

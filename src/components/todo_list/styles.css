@@ -1,0 +1,22 @@
+.todo-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todo-list__title {
+    width: 100%;
+    padding: 8px;
+    background-color: var(--grey-glass);
+
+    text-align: center;
+    cursor: default;
+}
+
+.todo-list__create-task-button {
+    position: fixed;
+    right: 32px;
+    bottom: 32px;
+
+    transform: scale(1.8);
+}

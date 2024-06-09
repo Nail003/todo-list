@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+}
+
+.side-menu {
+    flex: 1;
+    min-width: 256px;
+}
+
+.items-container {
+    flex: 4;
+}

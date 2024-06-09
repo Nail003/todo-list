@@ -1,0 +1,22 @@
+.icon-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 4px;
+    width: 32px;
+    border: 2px solid #00000000;
+    border-radius: 8px;
+    background: none;
+
+    transition: border 250ms;
+    cursor: pointer;
+}
+
+.icon-button:hover {
+    border: 2px solid var(--white);
+}
+
+.icon-button img {
+    width: 100%;
+}

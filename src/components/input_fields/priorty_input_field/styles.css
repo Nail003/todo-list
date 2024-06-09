@@ -1,0 +1,23 @@
+.priorty-input-field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 8px;
+
+    /* To properly align the buttons with other input fields */
+    padding-bottom: 9px;
+}
+
+.priorty-input-field__title {
+    font-size: 1.75rem;
+}
+
+.priorty-input-field__button-container {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+.priorty-input-field__hidden-input {
+    display: none;
+}

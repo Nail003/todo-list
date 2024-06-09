@@ -1,0 +1,30 @@
+.priorty-button {
+    min-width: 96px;
+    text-shadow: none;
+    font-weight: bolder;
+}
+
+.priorty-button:hover {
+    border: 2px solid var(--white)
+}
+
+.priorty-button--low {
+    background-color: var(--green);
+}
+
+.priorty-button--medium {
+    background-color: var(--orange);
+}
+
+.priorty-button--high {
+    background-color: var(--red);
+}
+
+.priorty-button--active {
+    border: 4px solid var(--white);
+    cursor: default;
+}
+
+.priorty-button--active:hover {
+    border: 4px solid var(--white);
+}

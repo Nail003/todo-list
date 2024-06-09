@@ -1,0 +1,14 @@
+.base-button {
+    min-width: 128px;
+    min-height: 32px;
+
+    font-size: 1.5rem;
+    color: var(--white);
+    text-align: center;
+
+    background: none;
+    border: none;
+    border-radius: 8px;
+
+    cursor: pointer;
+}

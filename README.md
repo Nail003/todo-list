@@ -1,2 +1,2 @@
 # todo-list
-Todo List web app that I made one of my Odin assignment.
+Todo List web app that I made as one of my Odin assignment.

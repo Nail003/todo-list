@@ -1,0 +1,11 @@
+.button-filled {
+    background-color: var(--white);
+    color: var(--black);
+    text-shadow: none;
+    font-weight: bolder;
+    transition: border-color 250ms;
+}
+
+.button-filled:hover {
+    border: 2px solid var(--black);
+}

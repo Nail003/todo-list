@@ -1,0 +1,20 @@
+.base-task-form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 0px 32px;
+}
+
+.base-task-form__style-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.base-task-form__button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 16px;
+    padding: 8px 24px;
+}

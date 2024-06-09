@@ -1,0 +1,13 @@
+.new-project-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 16px 32px;
+    gap: 16px;
+}
+
+.new-project-form__button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

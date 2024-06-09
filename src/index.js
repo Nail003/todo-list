@@ -1,7 +1,9 @@
+// Style Sheets
 import "./globals.css"
-import "./components/menubar/index.js"
-import { renderMenuBar } from "./components/menubar/index.js"
-import { renderTodoContainer } from "./components/todo-container/index.js"
+import "./styles.css"
 
-renderMenuBar()
-renderTodoContainer()
+// Modules
+import { renderSideMenu } from "./modules/side_menu"
+
+//Initializing App
+renderSideMenu()

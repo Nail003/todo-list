@@ -19,6 +19,12 @@
     --lightPurple: #910A67;
     --lightPurple-glass: #910A6740;
     --darkPurple: #3C0753;
+    --red: brown;
+    --red-glass: #a52a2a70;
+    --orange: orange;
+    --orange-glass: #ffa50070;
+    --green: lightgreen;
+    --green-glass: #90ee9070;
 }
 
 .background {
@@ -41,4 +47,16 @@
 main {
     display: flex;
     flex-direction: row;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.25rem;
 }

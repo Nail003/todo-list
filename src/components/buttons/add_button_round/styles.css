@@ -1,0 +1,4 @@
+.add-button--round {
+    background-color: var(--purple);
+    border-radius: 50%;
+}
